@@ -8,8 +8,8 @@ Your assignment is to implement a function that is subscribed to these events an
 
 ## Submitting
 
-- Clone this repo into the platform of your choice
-- Create a pull request for your changes
+- Clone the repo into the platform of your choice - you will only have read permissions on this repo
+- Create a pull request for your changes against your own repo
 - Email your point of contact at AFerry with a link to the PR
 
 ## Brief
