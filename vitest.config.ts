@@ -24,7 +24,7 @@ export default defineConfig(
         functions: 100,
         statements: 100,
         include: ['src/**/**', 'cdk/**/**'],
-        exclude: ['src/index.ts', 'src/index.js', '**/__mocks__/**'],
+        exclude: ['src/index.js', '**/__mocks__/**'],
         extension: ['.js', '.ts'],
         reporter: ['text'],
       },
